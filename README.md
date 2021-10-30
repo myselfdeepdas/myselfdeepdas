@@ -2,8 +2,9 @@
 <h3 align="center"><b><i>• CODER, ASPIRING ANDROID DEVELOPER & AN OPENSOURCE CONTRIBUTOR. • SKILLS:-HTML, CSS, JAVA, C++, PYTHON & KOTLIN (LEARNING). • I WOULD LOVE TO GET EXPOSURE AND WORK ON MY INTERESTED FIELDS OF DEVELOPMENT & PROGRAMMING FOR ENRICHING MY KNOWLEDGE & SKILLS.</i></b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=myselfdeepdas&label=Profile%20views&color=0e75b6&style=flat" alt="myselfdeepdas" /> </p>
-
-<h3 align="center">CONNECT WITH ME : 🌏|MY LANGUAGE AND TOOLS : 🛠 </h3>
+<div>
+<h3 align="left">CONNECT WITH ME : 🌏</h3> <h3 align="right">MY LANGUAGE AND TOOLS : 🛠 </h3>
+  </div>
 <p>
 <a href="https://twitter.com/myselfdeepdas" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="myselfdeepdas" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/myselfdeepdas" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="myselfdeepdas" height="50" width="50" /></a>
