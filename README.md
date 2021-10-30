@@ -25,4 +25,4 @@
 
 <p><img align="center"<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=myselfdeepdas&theme=tokyonight" alt="myselfdeepdas" /></p>
 <div align="center">
-<img width= "100" height="40" src="https://activity-graph.herokuapp.com/graph?username=myselfdeepdas&bg_color=FFFFFF&color=000000&line=000000&point=00FF00&theme=tokyonight"></div>
+<img width= "100%" height="4%" src="https://activity-graph.herokuapp.com/graph?username=myselfdeepdas&bg_color=FFFFFF&color=000000&line=000000&point=00FF00&theme=tokyonight"></div>
