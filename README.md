@@ -8,7 +8,7 @@
 <a href="https://facebook.com/myselfdeepdas" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/myselfdeepdas" height="50" width="50" /></a>
 <a href="https://instagram.com/myselfdeepdas" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myselfdeepdas" height="50" width="50" /></a> <h3 align="right">MY LANGUAGE AND TOOLS : 🛠 </h3>
 
- <p> hiiiiii</p>
+ <p align="left"> hiiiiii</p>
 
 
 <p>&nbsp;<img align="center"<img width="100%" src="https://github-readme-stats.vercel.app/api?username=myselfdeepdas&show_icons=true&locale=en&theme=tokyonight" alt="myselfdeepdas" /></p>
