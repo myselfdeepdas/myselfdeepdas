@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfdeepdas&label=Profile%20views&color=0e75b6&style=flat" alt="myselfdeepdas" /> </p>
 
-- 🔭 I’m currently working on **ANDROID DEVELOPMENT**
+- 🔭 I’m currently working on **ANDROID DEVELOPMENT & FLUTTER**
 
 - 🌱 I’m currently learning **PYTHON, KOTLIN, FLUTTER**
 
