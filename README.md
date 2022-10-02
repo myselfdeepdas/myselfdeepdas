@@ -65,4 +65,4 @@
 
 
 <h3 align="center">[![@myselfdeepdas's Holopin board]</h3>
-<a href="https://holopin.io/@myselfdeepdas" ><img src="https://holopin.io/api/user/board?user=myselfdeepdas"><a>
+<a href="https://holopin.io/@myselfdeepdas" ><img align="center" src="https://holopin.io/api/user/board?user=myselfdeepdas"><a>
