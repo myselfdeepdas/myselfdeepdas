@@ -64,5 +64,5 @@
 </div>
 
 
-<h3 align="center">Languages and Tools:</h3>
-[![@myselfdeepdas's Holopin board](https://holopin.io/api/user/board?user=myselfdeepdas)](https://holopin.io/@myselfdeepdas)
+<h3 align="center">[![@myselfdeepdas's Holopin board]</h3>
+<a href="https://holopin.io/@myselfdeepdas" ><img src="https://holopin.io/api/user/board?user=myselfdeepdas"><a>
