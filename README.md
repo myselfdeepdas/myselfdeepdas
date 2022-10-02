@@ -62,3 +62,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfdeepdas&show_icons=true&locale=en&layout=compact" alt="myselfdeepdas" /></p>
   </p>
 </div>
+
+
+<h3 align="center">Languages and Tools:</h3>
+[![@myselfdeepdas's Holopin board](https://holopin.io/api/user/board?user=myselfdeepdas)](https://holopin.io/@myselfdeepdas)
