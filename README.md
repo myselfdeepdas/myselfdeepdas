@@ -64,5 +64,5 @@
 </div>
 
 
-<h3 align="center">[![@myselfdeepdas's Holopin board]</h3>
+<h3 align="center">[My Holopin's board]</h3>
 <a href="https://holopin.io/@myselfdeepdas" ><img align="center" src="https://holopin.io/api/user/board?user=myselfdeepdas"><a>
