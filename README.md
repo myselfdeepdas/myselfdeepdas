@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DEEP DAS</h1>
-<h3 align="center">An aspiring Android Developer (Native & Flutter), an enthusiastic Open Source contributor, and a newbie DevOps enthusiast.</h3>
+<h2 align="center">An aspiring Android Developer (Native & Flutter), an enthusiastic Open Source contributor, and a newbie DevOps enthusiast.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfdeepdas&label=Profile%20views&color=0e75b6&style=flat" alt="myselfdeepdas" /> </p>
 
