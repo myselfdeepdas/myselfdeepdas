@@ -62,4 +62,4 @@ DevOps & Cloud Engineering Enthusiast ☁️⚙️
 
 ---
 
-<h3 align="center">⚡ Automate what you repeat. Scale what you automate.</h3>
+<h3 align="center">⚡ Automate. Optimize. Scale.</h3>
